@@ -36,7 +36,7 @@ Start/Stop încărcare: Apăsarea butonului de start pornește procesul de înc�
 ![WhatsApp Image 2024-10-20 at 15 36 15_70259ac4](https://github.com/user-attachments/assets/be0fa16e-e1dd-4a01-b788-94e85d2e72a3)
 
 ##Video cu functionalitatea montajului fizic
-(https://youtu.be/yDOoSeVnga8)
+[Watch video here!](https://youtu.be/yDOoSeVnga8)
 
 #Schema electrică TinkerCAD
 
