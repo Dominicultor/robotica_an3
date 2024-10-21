@@ -22,7 +22,7 @@ Timer_buton: variabilă care memorează momentul în care butonul de stop a fost
 
 Start/Stop încărcare: Apăsarea butonului de start pornește procesul de încărcare, iar apăsarea lungă a butonului de stop (2 secunde) îl oprește.
 
-#Componente
+# Componente
 - 4x LED-uri (3 albastre, unul verde)
 - 1x LED RGB (pentru starea de liber sau ocupat)
 - 2x Butoane (pentru start încărcare și stop încărcare)
@@ -30,12 +30,12 @@ Start/Stop încărcare: Apăsarea butonului de start pornește procesul de înc�
 - Breadboard
 - Linii de legătură
 
-##Poze ale setup-ului fizic
+## Poze ale setup-ului fizic
 ![WhatsApp Image 2024-10-20 at 15 36 15_0a61b417](https://github.com/user-attachments/assets/2b202bcf-111a-4e04-b851-deaa03b3da12)
 ![WhatsApp Image 2024-10-20 at 15 36 15_0a61b417](https://github.com/user-attachments/assets/6f8adff6-5f98-46ce-8ec7-13695cf3fbd1)
 ![WhatsApp Image 2024-10-20 at 15 36 15_70259ac4](https://github.com/user-attachments/assets/be0fa16e-e1dd-4a01-b788-94e85d2e72a3)
 
-##Video cu functionalitatea montajului fizic
+## Video cu functionalitatea montajului fizic
 [Watch video here!](https://youtu.be/yDOoSeVnga8)
 
 #Schema electrică TinkerCAD
