@@ -38,6 +38,10 @@ Start/Stop încărcare: Apăsarea butonului de start pornește procesul de înc�
 ##Video cu functionalitatea montajului fizic
 (https://youtu.be/yDOoSeVnga8)
 
+#Schema electrică TinkerCAD
+
+![Screenshot 2024-10-21 083023](https://github.com/user-attachments/assets/998c2151-0ede-48b1-85a8-215128cfdd1b)
+![image](https://github.com/user-attachments/assets/9c5832d8-979a-4020-84fe-70962dd759be)
 
 
 
